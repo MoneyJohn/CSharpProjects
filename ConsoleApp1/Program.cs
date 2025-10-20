@@ -1,4 +1,3 @@
 ﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
-Console.WriteLine("Testing the git push feature");
-//final test
+Console.WriteLine("This is the first line.");
+Console.WriteLine("This is the second line.");
